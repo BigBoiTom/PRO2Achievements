@@ -1,6 +1,6 @@
 # PRO2Achievements
 Pro2 Achievements hierin
 
-joepie
+Al mijn Achievements voor PRO2 
 
-hahoeehee
+Niet mn werk stelen svp 
