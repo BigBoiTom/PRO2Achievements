@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tvste\\Documents\\ma\\bewijzenmap\\periode1.1\\pro2\\PRO2Achievements\\Githubbertje\\Githubbertje.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tvste\\Documents\\ma\\bewijzenmap\\periode1.1\\pro2\\PRO2Achievements\\Githubbertje\\Githubbertje.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tvste\\Documents\\ma\\bewijzenmap\\periode1.1\\pro2\\PRO2Achievements\\Githubbertje\\Githubbertje.csproj",
+        "projectName": "Githubbertje",
+        "projectPath": "C:\\Users\\tvste\\Documents\\ma\\bewijzenmap\\periode1.1\\pro2\\PRO2Achievements\\Githubbertje\\Githubbertje.csproj",
+        "packagesPath": "C:\\Users\\tvste\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tvste\\Documents\\ma\\bewijzenmap\\periode1.1\\pro2\\PRO2Achievements\\Githubbertje\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tvste\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
