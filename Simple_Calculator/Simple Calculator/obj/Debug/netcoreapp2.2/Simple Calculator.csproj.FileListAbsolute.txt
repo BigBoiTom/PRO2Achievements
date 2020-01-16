@@ -1,0 +1,10 @@
+F:\yeet\Simple_Calculator\Simple Calculator\bin\Debug\netcoreapp2.2\Simple Calculator.deps.json
+F:\yeet\Simple_Calculator\Simple Calculator\bin\Debug\netcoreapp2.2\Simple Calculator.runtimeconfig.json
+F:\yeet\Simple_Calculator\Simple Calculator\bin\Debug\netcoreapp2.2\Simple Calculator.runtimeconfig.dev.json
+F:\yeet\Simple_Calculator\Simple Calculator\bin\Debug\netcoreapp2.2\Simple Calculator.dll
+F:\yeet\Simple_Calculator\Simple Calculator\bin\Debug\netcoreapp2.2\Simple Calculator.pdb
+F:\yeet\Simple_Calculator\Simple Calculator\obj\Debug\netcoreapp2.2\Simple Calculator.csprojAssemblyReference.cache
+F:\yeet\Simple_Calculator\Simple Calculator\obj\Debug\netcoreapp2.2\Simple Calculator.AssemblyInfoInputs.cache
+F:\yeet\Simple_Calculator\Simple Calculator\obj\Debug\netcoreapp2.2\Simple Calculator.AssemblyInfo.cs
+F:\yeet\Simple_Calculator\Simple Calculator\obj\Debug\netcoreapp2.2\Simple Calculator.dll
+F:\yeet\Simple_Calculator\Simple Calculator\obj\Debug\netcoreapp2.2\Simple Calculator.pdb
